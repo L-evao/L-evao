@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @L-evao
+- 👀 I'm interested in AI
+- 🌱 I'm currently studying a neural network programming course
